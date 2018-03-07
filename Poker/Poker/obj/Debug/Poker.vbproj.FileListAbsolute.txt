@@ -1,0 +1,96 @@
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+\\zeus\profile$\955242892\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (3)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker (5)\Lab 4 - Poker (5)\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\bin\Debug\Poker.xml
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.xml
+C:\Users\Kevin\Desktop\Lab 4 - Poker\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.xml
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.xml
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.Resources.resources
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+C:\Users\Z-Drama\Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.exe.config
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.pdb
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.vbprojResolveAssemblyReference.cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.Resources.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.frmPoker.resources
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final (2)\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.vbproj.GenerateResource.Cache
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Lab 4 - Poker Final\Poker\Poker\bin\Debug\Poker.exe.config
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.exe
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.xml
+S:\My Documents\Visual Studio 2015\Projects\Lab 4 - Poker Final\Lab 4 - Poker Final\Poker\Poker\obj\Debug\Poker.pdb
